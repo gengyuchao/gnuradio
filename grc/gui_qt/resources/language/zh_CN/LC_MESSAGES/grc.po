@@ -1,0 +1,449 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GNU Radio Companion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-21 21:43+0200\n"
+"PO-Revision-Date: 2024-09-11 21:45+0200\n"
+"Last-Translator: Geng Yuchao <gengyuchao11@163.com>\n"
+"Language-Team: zh_CN <gengyuchao11@163.com>\n"
+"Language: grc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#: grc/gui_qt/components/variable_editor.py:210
+msgid "variable_editor_add_import"
+msgstr "添加和导入"
+
+#: grc/gui_qt/components/variable_editor.py:214
+msgid "variable_editor_add_variable"
+msgstr "添加变量"
+
+#: grc/gui_qt/components/variable_editor.py:220
+msgid "variable_editor_enable"
+msgstr "启用"
+
+#: grc/gui_qt/components/variable_editor.py:224
+msgid "variable_editor_disable"
+msgstr "禁用"
+
+#: grc/gui_qt/components/variable_editor.py:230
+msgid "variable_editor_delete"
+msgstr "删除"
+
+#: grc/gui_qt/components/variable_editor.py:236
+msgid "variable_editor_properties"
+msgstr "属性..."
+
+#: grc/gui_qt/components/window.py:76
+msgid "window-title"
+msgstr "GNU Radio Companion"
+
+#: grc/gui_qt/components/window.py:283
+msgid "new"
+msgstr "新建"
+
+#: grc/gui_qt/components/window.py:286
+msgid "new-tooltip"
+msgstr "创建一个新的流程图"
+
+#: grc/gui_qt/components/window.py:291
+msgid "open"
+msgstr "打开..."
+
+#: grc/gui_qt/components/window.py:294
+msgid "open-tooltip"
+msgstr "打开一个已存在的流程图"
+
+#: grc/gui_qt/components/window.py:298
+msgid "example_browser"
+msgstr "示例..."
+
+#: grc/gui_qt/components/window.py:300
+msgid "example_browser-tooltip"
+msgstr "显示示例浏览器"
+
+#: grc/gui_qt/components/window.py:305
+msgid "close"
+msgstr "关闭"
+
+#: grc/gui_qt/components/window.py:308
+msgid "close-tooltip"
+msgstr "关闭当前的流程图"
+
+#: grc/gui_qt/components/window.py:313
+msgid "close_all"
+msgstr "全部关闭"
+
+#: grc/gui_qt/components/window.py:315
+msgid "close_all-tooltip"
+msgstr "关闭所有打开的流程图"
+
+#: grc/gui_qt/components/window.py:319 grc/gui_qt/components/console.py:173
+msgid "save"
+msgstr "保存"
+
+#: grc/gui_qt/components/window.py:322 grc/gui_qt/components/console.py:173
+msgid "save-tooltip"
+msgstr "保存当前的流程图"
+
+#: grc/gui_qt/components/window.py:327
+msgid "save_as"
+msgstr "另存为..."
+
+#: grc/gui_qt/components/window.py:330
+msgid "save_as-tooltip"
+msgstr "将当前的流程图另存为新名称"
+
+#: grc/gui_qt/components/window.py:333
+msgid "save_copy"
+msgstr "保存副本"
+
+#: grc/gui_qt/components/window.py:337
+msgid "screen_capture"
+msgstr "屏幕截图"
+
+#: grc/gui_qt/components/window.py:340
+msgid "screen_capture-tooltip"
+msgstr "创建当前流程图的屏幕截图"
+
+#: grc/gui_qt/components/window.py:345
+msgid "exit"
+msgstr "退出"
+
+#: grc/gui_qt/components/window.py:348
+msgid "exit-tooltip"
+msgstr "退出 GNU Radio Companion"
+
+#: grc/gui_qt/components/window.py:354
+msgid "undo"
+msgstr "撤销"
+
+#: grc/gui_qt/components/window.py:357
+msgid "undo-tooltip"
+msgstr "撤销上次更改"
+
+#: grc/gui_qt/components/window.py:362
+msgid "redo"
+msgstr "重做"
+
+#: grc/gui_qt/components/window.py:365
+msgid "redo-tooltip"
+msgstr "重做上次更改"
+
+#: grc/gui_qt/components/window.py:372
+msgid "cut"
+msgstr "剪切"
+
+#: grc/gui_qt/components/window.py:375
+msgid "cut-tooltip"
+msgstr "将当前选择的内容剪切到剪贴板"
+
+#: grc/gui_qt/components/window.py:380
+msgid "copy"
+msgstr "复制"
+
+#: grc/gui_qt/components/window.py:383
+msgid "copy-tooltip"
+msgstr "将当前选择的内容复制到剪贴板"
+
+#: grc/gui_qt/components/window.py:388
+msgid "paste"
+msgstr "粘贴"
+
+#: grc/gui_qt/components/window.py:391
+msgid "paste-tooltip"
+msgstr "将剪贴板的内容粘贴到当前选择"
+
+#: grc/gui_qt/components/window.py:396
+msgid "delete"
+msgstr "删除"
+
+#: grc/gui_qt/components/window.py:399
+msgid "delete-tooltip"
+msgstr "删除选中的模块"
+
+#: grc/gui_qt/components/window.py:411
+msgid "select_all"
+msgstr "全选"
+
+#: grc/gui_qt/components/window.py:414
+msgid "select_all-tooltip"
+msgstr "选择画布中的所有项目"
+
+#: grc/gui_qt/components/window.py:418
+msgid "Select None"
+msgstr "取消全选"
+
+#: grc/gui_qt/components/window.py:418
+#, fuzzy
+#| msgid "select_all-tooltip"
+msgid "select_none-tooltip"
+msgstr "取消选择画布中的所有项目"
+
+#: grc/gui_qt/components/window.py:423
+msgid "rotate_ccw"
+msgstr "逆时针旋转"
+
+#: grc/gui_qt/components/window.py:426
+msgid "rotate_ccw-tooltip"
+msgstr "将选中的模块逆时针旋转 90 度"
+
+#: grc/gui_qt/components/window.py:431
+msgid "rotate_cw"
+msgstr "顺时针旋转"
+
+#: grc/gui_qt/components/window.py:434
+msgid "rotate_cw-tooltip"
+msgstr "将选中的模块顺时针旋转 90 度"
+
+#: grc/gui_qt/components/window.py:440
+msgid "enable"
+msgstr "启用"
+
+#: grc/gui_qt/components/window.py:441
+msgid "disable"
+msgstr "禁用"
+
+#: grc/gui_qt/components/window.py:442
+msgid "bypass"
+msgstr "绕过"
+
+#: grc/gui_qt/components/window.py:445
+msgid "block_inc_type"
+msgstr ""
+
+#: grc/gui_qt/components/window.py:446
+msgid "block_dec_type"
+msgstr ""
+
+#: grc/gui_qt/components/window.py:453
+msgid "vertical_align_top"
+msgstr "垂直顶部对齐"
+
+#: grc/gui_qt/components/window.py:454
+msgid "vertical_align_middle"
+msgstr "垂直居中对齐"
+
+#: grc/gui_qt/components/window.py:455
+msgid "vertical_align_bottom"
+msgstr "垂直底部对齐"
+
+#: grc/gui_qt/components/window.py:461
+msgid "horizontal_align_left"
+msgstr "水平左对齐"
+
+#: grc/gui_qt/components/window.py:462
+msgid "horizontal_align_center"
+msgstr "水平居中对齐"
+
+#: grc/gui_qt/components/window.py:463
+msgid "horizontal_align_right"
+msgstr "水平右对齐"
+
+#: grc/gui_qt/components/window.py:469
+msgid "create_hier_block"
+msgstr "创建层次模块"
+
+#: grc/gui_qt/components/window.py:470
+msgid "open_hier_block"
+msgstr "打开层次模块"
+
+#: grc/gui_qt/components/window.py:471
+msgid "toggle_source_bus"
+msgstr "切换源总线"
+
+#: grc/gui_qt/components/window.py:472
+msgid "toggle_sink_bus"
+msgstr "切换汇总线"
+
+#: grc/gui_qt/components/window.py:481
+msgid "flowgraph-properties"
+msgstr "属性"
+
+#: grc/gui_qt/components/window.py:483
+msgid "flowgraph-properties-tooltip"
+msgstr "显示流程图的属性"
+
+#: grc/gui_qt/components/window.py:491
+msgid "Zoom &in"
+msgstr "放大"
+
+#: grc/gui_qt/components/window.py:497
+msgid "Zoom &out"
+msgstr "缩小"
+
+#: grc/gui_qt/components/window.py:503
+msgid "O&riginal size"
+msgstr "原始大小"
+
+#: grc/gui_qt/components/window.py:509
+msgid "toggle_grid"
+msgstr "切换网格"
+
+#: grc/gui_qt/components/window.py:509
+msgid "toggle_grid-tooltip"
+msgstr "切换画布网格"
+
+#: grc/gui_qt/components/window.py:513
+msgid "errors"
+msgstr "错误"
+
+#: grc/gui_qt/components/window.py:513
+msgid "errors-tooltip"
+msgstr "查看当前流程图中的错误"
+
+#: grc/gui_qt/components/window.py:518
+msgid "find"
+msgstr "查找模块"
+
+#: grc/gui_qt/components/window.py:521
+msgid "find-tooltip"
+msgstr "按名称查找模块"
+
+#: grc/gui_qt/components/window.py:526
+msgid "about"
+msgstr "关于"
+
+#: grc/gui_qt/components/window.py:526 grc/gui_qt/components/window.py:533
+msgid "about-tooltip"
+msgstr "显示关于窗口"
+
+#: grc/gui_qt/components/window.py:531
+msgid "about-qt"
+msgstr "关于 &Qt"
+
+#: grc/gui_qt/components/window.py:538
+msgid "process-generate"
+msgstr "生成"
+
+#: grc/gui_qt/components/window.py:541
+msgid "process-generate-tooltip"
+msgstr "生成 Python 流程图"
+
+#: grc/gui_qt/components/window.py:546
+msgid "process-execute"
+msgstr "执行"
+
+#: grc/gui_qt/components/window.py:549
+msgid "process-execute-tooltip"
+msgstr "执行 Python 流程图"
+
+#: grc/gui_qt/components/window.py:554
+msgid "process-kill"
+msgstr "终止"
+
+#: grc/gui_qt/components/window.py:557
+msgid "process-kill-tooltip"
+msgstr "终止当前流程图"
+
+#: grc/gui_qt/components/window.py:562
+msgid "help"
+msgstr "帮助"
+
+#: grc/gui_qt/components/window.py:565
+msgid "help-tooltip"
+msgstr "显示帮助窗口"
+
+#: grc/gui_qt/components/window.py:570
+#, fuzzy
+#| msgid "filter_design_tool"
+msgid "&Filter Design Tool"
+msgstr "滤波器设计工具"
+
+#: grc/gui_qt/components/window.py:572
+#, fuzzy
+#| msgid "module_browser"
+msgid "&OOT Module Browser"
+msgstr "OOT 模块浏览器"
+
+#: grc/gui_qt/components/window.py:574
+msgid "Start profiler"
+msgstr "启动分析器"
+
+#: grc/gui_qt/components/window.py:575
+msgid "Stop profiler"
+msgstr "停止分析器"
+
+#: grc/gui_qt/components/window.py:579
+msgid "&Types"
+msgstr "类型"
+
+#: grc/gui_qt/components/window.py:581
+msgid "&Keys"
+msgstr "键"
+
+#: grc/gui_qt/components/window.py:583
+msgid "&Get Involved"
+msgstr "参与其中"
+
+#: grc/gui_qt/components/window.py:587
+msgid "preferences"
+msgstr "首选项"
+
+#: grc/gui_qt/components/window.py:589
+msgid "preferences-tooltip"
+msgstr "显示 GRC 首选项"
+
+#: grc/gui_qt/components/window.py:593
+msgid "reload"
+msgstr "重新加载"
+
+#: grc/gui_qt/components/window.py:593
+#, fuzzy
+#| msgid "redo-tooltip"
+msgid "reload-tooltip"
+msgstr "重新加载当前内容"
+
+#: grc/gui_qt/components/window.py:864
+msgid "ready-message"
+msgstr "准备就绪"
+
+#: grc/gui_qt/components/console.py:174
+msgid "clear"
+msgstr "清除"
+
+#: grc/gui_qt/components/console.py:174
+msgid "clear-tooltip"
+msgstr "清除控制台"
+
+#: grc/gui_qt/components/console.py:175
+msgid "show-level"
+msgstr "显示消息级别"
+
+#: grc/gui_qt/components/console.py:178
+msgid "auto-scroll"
+msgstr "自动滚动"
+
+#~ msgid "snap_to_grid"
+#~ msgstr "对齐网格"
+
+#~ msgid "show_flowgraph_complexity"
+#~ msgstr "显示流程图复杂度"
+
+#~ msgid "zoom_in"
+#~ msgstr "放大"
+
+#~ msgid "zoom_out"
+#~ msgstr "缩小"
+
+#~ msgid "zoom_reset"
+#~ msgstr "重置缩放级别"
+
+#~ msgid "set_default_qt_gui_theme"
+#~ msgstr "设置默认 Qt GUI 主题"
+
+#~ msgid "print"
+#~ msgstr "打印"
+
+#~ msgid "print-tooltip"
+#~ msgstr "打印当前流程图"
+
+#~ msgid "block-library-tooltip"
+#~ msgstr "显示模块库"
